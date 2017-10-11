@@ -1,7 +1,5 @@
 <?php
-$access_token = '3mtLEnhPD9E+x+M1FTAqcH4jzk7etJcLMYkvv6XdBUVDeQYD8z/m32f5V4t9RThqf6a+v+gBT+iEvSCfDT4kqADSlrg7ECuavqCyuOR8f1NWuVoLEmjYsnJsxO77oh/vl496Nh1j2D/RR7h16ZolhwdB04t89/1O/w1cDnyilFU=
-';
-
+$access_token = '3mtLEnhPD9E+x+M1FTAqcH4jzk7etJcLMYkvv6XdBUVDeQYD8z/m32f5V4t9RThqf6a+v+gBT+iEvSCfDT4kqADSlrg7ECuavqCyuOR8f1NWuVoLEmjYsnJsxO77oh/vl496Nh1j2D/RR7h16ZolhwdB04t89/1O/w1cDnyilFU=';
 // Get POST body content
 $content = file_get_contents('php://input');
 // Parse JSON
